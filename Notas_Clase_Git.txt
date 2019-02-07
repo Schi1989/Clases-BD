@@ -1,0 +1,2 @@
+CVS: controlador de versiones es para realizar el seguimiento a los cambios realizados sobre cualquier archivo.
+GIT: global information tracker.
