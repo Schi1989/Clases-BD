@@ -1,2 +1,11 @@
 CVS: controlador de versiones es para realizar el seguimiento a los cambios realizados sobre cualquier archivo.
 GIT: global information tracker.
+
+Comandos Basicos de Git
+* Git init- para iniciar el repositorio
+* Git status-para validar los estados del repositorio
+* Git add .-para agregar los archivos
+* Git commit -m ""- para confirmar los cambios sobre el archivo
+
+opcional
+* Git log- para validar el estado del repositorio
