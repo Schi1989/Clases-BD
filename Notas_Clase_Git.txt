@@ -9,3 +9,6 @@ Comandos Basicos de Git
 * Git Clone- es para clonar el repositorio que se trabaja en ambiente colaborativo
 opcional
 * Git log- para validar el estado del repositorio
+
+Ramas Git
+las ramas sirve para guardar cambios en diferentes master
