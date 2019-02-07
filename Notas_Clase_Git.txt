@@ -6,6 +6,6 @@ Comandos Basicos de Git
 * Git status-para validar los estados del repositorio
 * Git add .-para agregar los archivos
 * Git commit -m ""- para confirmar los cambios sobre el archivo
-
+* Git Clone- es para clonar el repositorio que se trabaja en ambiente colaborativo
 opcional
 * Git log- para validar el estado del repositorio
